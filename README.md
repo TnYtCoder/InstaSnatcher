@@ -4,7 +4,7 @@
 <a href="https://instaloader.github.io/"><img src="https://img.shields.io/badge/Made_With-INSTALOADER_-brightgreen?style=for-the-badge&logo=Python" alt="Made With - INSTALOADER "></a>
 </p>
 
-# InstaSnatcher-
+# InstaSnatcher
 Python Script To Snatch Entire Instagram I'd 
 ![0002_6](https://github.com/TnYtCoder/InstaSnatcher-/assets/115485810/7c21d178-33a5-4f70-af00-ae9fb9b3d2f2)
 
