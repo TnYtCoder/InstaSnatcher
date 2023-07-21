@@ -8,7 +8,7 @@
 Python Script To Snatch Entire Instagram I'd 
 ![0002_6](https://github.com/TnYtCoder/InstaSnatcher-/assets/115485810/7c21d178-33a5-4f70-af00-ae9fb9b3d2f2)
 
-This Tool Is Used To Install All The Data Of The Instagram User Including `Profile Picture, Posts , Reels etc.`
+This Tool Is Used To Download All The Data Of The Instagram User Including `Profile Picture, Posts , Reels etc.`
 
 Topics Covered 📑 :
 
